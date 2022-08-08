@@ -1,4 +1,5 @@
 # CI-CD
-ci/cd with circle ci
+ Settings up *continuous integration* and *continuous delivery* 
 
-jjj
+## settings up steps
+
